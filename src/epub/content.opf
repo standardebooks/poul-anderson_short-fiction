@@ -117,13 +117,13 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
 		<dc:creator id="author">Poul Anderson</dc:creator>
 		<meta property="file-as" refines="#author">Anderson, Paul</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Poul_Anderson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79044004</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Poul_Anderson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79044004</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="contributor">Karen Anderson</dc:contributor>
 		<meta property="file-as" refines="#contributor">Anderson, Karen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Karen_Anderson_(writer)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/no2017021910</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">https://id.loc.gov/authorities/names/no2017021910</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
 		<dc:contributor id="artist">Francis Picabia</dc:contributor>
 		<meta property="file-as" refines="#artist">Picabia, Francis</meta>
@@ -145,7 +145,7 @@
 		<dc:contributor id="transcriber-5">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
+		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-6">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
