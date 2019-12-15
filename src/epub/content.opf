@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/poul-anderson/short-fiction</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/poul-anderson_karen-anderson/short-fiction</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -28,47 +28,134 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Science fiction</dc:subject>
+		<dc:subject id="subject-2">Short stories</dc:subject>
+		<dc:subject id="subject-3">Mars (Planet) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Spy stories</dc:subject>
+		<dc:subject id="subject-5">Revolutionaries -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Man-woman relationships -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Inventors -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Massachusetts -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Husband and wife -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Social change -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Scientists -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Triton (Satellite) -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Journalists -- Fiction</dc:subject>
+		<dc:subject id="subject-14">Longevity -- Fiction</dc:subject>
+		<dc:subject id="subject-15">Immortality -- Fiction</dc:subject>
+		<dc:subject id="subject-16">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-17">Swindlers and swindling -- Fiction</dc:subject>
+		<dc:subject id="subject-18">Martians -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008115817</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85127066</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008110331</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008107175</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008104658</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008107222</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2009126689</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">sh2010113466</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008111358</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">Unknown</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">sh2008106063</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">Unknown</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2009126786</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh85047114</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh2008111401</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">Unknown</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of science fiction short stories by Poul Anderson ordered by date of publication.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Poul Anderson's prolific writing career began in 1947, while still an undergraduate physics student at the University of Minnesota, and continued throughout his life.  His works were primarily science fiction and fantasy, but he also produced mysteries and historical fiction.&lt;/p&gt;&lt;p&gt;Among his many honors, Anderson was a recipient of 3 Nebula awards, 7 Hugo awards, 3 Prometheous awards, a SFWA Grand Master award. He was inducted into the Science Fiction Hall of Fame in 2000.&lt;/p&gt;&lt;p&gt;This collection consists of eleven of his short stories and one novella, published between 1951 in &lt;i&gt;Worlds of If&lt;/i&gt;, &lt;i&gt;Galaxy SF&lt;/i&gt;, &lt;i&gt;Fantastic Universe&lt;/i&gt;, and other periodicals.  Presented in order of publication, they include &lt;i&gt;Innocent At Large&lt;/i&gt;, a 1958 story coauthored with his wife and noted author Karen Anderson.&lt;/p&gt;</meta>
+		<meta property="authority" refines="#description">https://standardebooks.org</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/32436</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51184</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/37653</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/22239</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/41064</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/31501</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/59314</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/59373</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/59498</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/29542</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/51650</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/30971</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4b429905ddf83</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56945e402c4de</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4ca3dafa67860</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4611913c6a010</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID506f9aaf15e2d</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49f1191251801</dc:source>
+		<dc:source>http://www.luminist.org/archives/SF/IF.htm</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49cd7f60eb09e</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56a573cb91baf</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49440ddf3e1f8</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
-		<dc:creator id="author">Poul Anderson</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Poul_Anderson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:creator id="author-1">Poul Anderson</dc:creator>
+		<meta property="file-as" refines="#author-1">Anderson, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Poul_Anderson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-1">https://id.loc.gov/authorities/names/n79044004</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
+		<dc:creator id="author-2">Karen Anderson</dc:creator>
+		<meta property="file-as" refines="#author-2">Anderson, Karen</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Karen_Anderson_(writer)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-2">https://id.loc.gov/authorities/names/no2017021910</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
+		<dc:contributor id="artist">Francis Picabia</dc:contributor>
+		<meta property="file-as" refines="#artist">Picabia, Francis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_Picabia</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50019704</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+                <dc:contributor id="transcriber-1">Sankar Viswanathan</dc:contributor>
+                <meta property="file-as" refines="#transcriber-1">Viswanathan, Sankar</meta>
+                <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+                <dc:contributor id="transcriber-2">Greg Weeks</dc:contributor>
+                <meta property="file-as" refines="#transcriber-2">Weeks, Greg</meta>
+                <meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+                <dc:contributor id="transcriber-3">Dianna Adair</dc:contributor>
+                <meta property="file-as" refines="#transcriber-3">Adair, Dianna</meta>
+                <meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+                <dc:contributor id="transcriber-4">Stephen Blundell</dc:contributor>
+                <meta property="file-as" refines="#transcriber-4">Blundell, Stephen</meta>
+                <meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+                <dc:contributor id="transcriber-5">Mary Meehan</dc:contributor>
+                <meta property="file-as" refines="#transcriber-5">Meehan, Mary</meta>
+                <meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+                <dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
+                <meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+                <meta property="se:url.homepage" refines="#transcriber-6">https://pgdp.net</meta>
+                <meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+                <dc:contributor id="producer-1">Josh Grosse</dc:contributor>
+                <meta property="file-as" refines="#producer-1">Grosse, Josh</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+                <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -77,14 +164,38 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/catalysis.xhtml" id="catalysis.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/duel-on-syrtis.xhtml" id="duel-on-syrtis.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/industrial-revolution.xhtml" id="industrial-revolution.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/innocent-at-large.xhtml" id="innocent-at-large.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/inside-earth.xhtml" id="inside-earth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/security.xhtml" id="security.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sentiment-inc.xhtml" id="sentiment-inc.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/snowball.xhtml" id="snowball.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-chapter-ends.xhtml" id="the-chapter-ends.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sensitive-man.xhtml" id="the-sensitive-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-valor-of-cappen-varra.xhtml" id="the-valor-of-cappen-varra.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/what-shall-it-profit.xhtml" id="what-shall-it-profit.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="duel-on-syrtis.xhtml"/>
+		<itemref idref="inside-earth.xhtml"/>
+		<itemref idref="sentiment-inc.xhtml"/>
+		<itemref idref="security.xhtml"/>
+		<itemref idref="the-chapter-ends.xhtml"/>
+		<itemref idref="the-sensitive-man.xhtml"/>
+		<itemref idref="snowball.xhtml"/>
+		<itemref idref="catalysis.xhtml"/>
+		<itemref idref="what-shall-it-profit.xhtml"/>
+		<itemref idref="the-valor-of-cappen-varra.xhtml"/>
+		<itemref idref="innocent-at-large.xhtml"/>
+		<itemref idref="industrial-revolution.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
