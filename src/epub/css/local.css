@@ -1,12 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="bridgehead"]{
-	display: inline-block;
+[epub|type~="z3998:contributors"]{
 	font-style: italic;
-	max-width: 60%;
-	text-align: justify;
-	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p{
