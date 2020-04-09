@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="security.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Period is part of a secret code.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
