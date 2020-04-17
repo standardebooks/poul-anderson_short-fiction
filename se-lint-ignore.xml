@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="innocent-at-large.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Match is a part of thought speech.</reason>
+		</ignore>
 	<file path="security.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Match is a complete clause.</reason>
+		</ignore>
 		<ignore>
 			<code>t-029</code>
 			<reason>Period is part of a secret code.</reason>
