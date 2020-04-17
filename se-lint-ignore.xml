@@ -5,6 +5,7 @@
 			<code>t-017</code>
 			<reason>Match is a part of thought speech.</reason>
 		</ignore>
+	</file>
 	<file path="security.xhtml">
 		<ignore>
 			<code>t-017</code>
