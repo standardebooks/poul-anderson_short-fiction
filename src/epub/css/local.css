@@ -46,3 +46,7 @@ body [xml|lang]{
 #innocent-at-large blockquote p{
 	text-align: center;
 }
+
+#inside-earth [epub|type~="z3998:verse"]{
+	font-style: italic;
+}
