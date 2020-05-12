@@ -16,4 +16,10 @@
 			<reason>Period is part of a secret code.</reason>
 		</ignore>
 	</file>
+	<file path="snowball.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Match is a part of longer dialog.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
