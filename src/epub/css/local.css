@@ -24,11 +24,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] + p,
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
-
 p span.i2{
 	text-indent: -1em;
 	padding-left: 3em;
