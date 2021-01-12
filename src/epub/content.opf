@@ -114,7 +114,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49cd7f60eb09e</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56a573cb91baf</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49440ddf3e1f8</dc:source>
-		<meta property="se:word-count">135449</meta>
+		<meta property="se:word-count">135455</meta>
 		<meta property="se:reading-ease.flesch">76.32</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
 		<dc:creator id="author">Poul Anderson</dc:creator>
