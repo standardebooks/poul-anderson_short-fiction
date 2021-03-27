@@ -59,6 +59,10 @@ body [xml|lang]{
 	text-indent: 0;
 }
 
+q{
+	font-style: italic;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
