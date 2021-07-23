@@ -22,4 +22,10 @@
 			<reason>Match is a part of longer dialog.</reason>
 		</ignore>
 	</file>
+	<file path="captive-of-the-centaurianess.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Title is spoken in a dialect and thus is titlecased correctly.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
