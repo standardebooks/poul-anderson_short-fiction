@@ -93,42 +93,44 @@
 			&lt;p&gt;This collection consists of eleven of his short stories and one novella, published between 1951 in &lt;i&gt;Worlds of If&lt;/i&gt;, &lt;i&gt;Galaxy SF&lt;/i&gt;, &lt;i&gt;Fantastic Universe&lt;/i&gt;, and other periodicals. Presented in order of publication, they include &lt;i&gt;Innocent at Large&lt;/i&gt;, a 1958 story coauthored with his wife and noted author Karen Anderson.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/63950</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63944</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64049</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/65086</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/32436</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/51184</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/37653</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64022</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63993</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64044</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64048</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/64075</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/22239</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/37653</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/41064</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/31501</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/59314</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/63633</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/59373</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/59498</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/29542</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/51650</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/30971</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63633</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63944</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63950</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63993</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64022</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64044</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64048</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64075</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64049</dc:source>
+		<dc:source>https://archive.org/details/Imagination_v02n01_1951-02_LennyS-cape1736</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4b429905ddf83</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56945e402c4de</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4ca3dafa67860</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n01_1951-07_oak</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n02_1951-09</dc:source>
+		<dc:source>https://comicbookplus.com/?dlid=68410</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n05_1952-03_EXciter-dtsg0318_FIXED</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4611913c6a010</dc:source>
+		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4ca3dafa67860</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID506f9aaf15e2d</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49f1191251801</dc:source>
-		<dc:source>http://www.luminist.org/archives/SF/IF.htm</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_Volume_6_Number_11_</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49cd7f60eb09e</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56a573cb91baf</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49440ddf3e1f8</dc:source>
-		<dc:source>https://archive.org/details/Planet_Stories_v05n01_1951-07_oak</dc:source>
-		<dc:source>https://archive.org/details/Planet_Stories_v05n02_1951-09</dc:source>
-		<dc:source>https://archive.org/details/Planet_Stories_v05n05_1952-03_EXciter-dtsg0318_FIXED</dc:source>
-		<dc:source>https://comicbookplus.com/?dlid=68410</dc:source>
-		<dc:source>https://archive.org/details/Planet_Stories_Volume_6_Number_11_</dc:source>
+		<dc:source>http://www.luminist.org/archives/SF/IF.htm</dc:source>
 		<meta property="se:word-count">275622</meta>
 		<meta property="se:reading-ease.flesch">75.71</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
