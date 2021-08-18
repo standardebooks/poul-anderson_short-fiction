@@ -211,12 +211,14 @@
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/what-shall-it-profit.xhtml" id="what-shall-it-profit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/witch-of-the-demon-seas.xhtml" id="witch-of-the-demon-seas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/world-of-the-mad.xhtml" id="world-of-the-mad.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="star-ship.xhtml"/>
+		<itemref idref="world-of-the-mad.xhtml"/>
 		<itemref idref="duel-on-syrtis.xhtml"/>
 		<itemref idref="inside-earth.xhtml"/>
 		<itemref idref="witch-of-the-demon-seas.xhtml"/>
