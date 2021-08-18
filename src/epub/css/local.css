@@ -34,7 +34,7 @@ p span.i2{
 	text-indent: -1em;
 }
 
-body [xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
 }
 
@@ -48,6 +48,10 @@ body [xml|lang]{
 }
 
 #inside-earth [epub|type~="z3998:verse"]{
+	font-style: italic;
+}
+
+#world-of-the-mad blockquote{
 	font-style: italic;
 }
 
