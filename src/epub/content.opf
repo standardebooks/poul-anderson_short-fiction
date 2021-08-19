@@ -48,10 +48,13 @@
 		<dc:subject id="subject-16">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-17">Swindlers and swindling -- Fiction</dc:subject>
 		<dc:subject id="subject-18">Martians -- Fiction</dc:subject>
+		<dc:subject id="subject-19">Psychological fiction</dc:subject>
+		<dc:subject id="subject-20">Life on other planets -- Fiction</dc:subject>
+		<dc:subject id="subject-21">Space colonies -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="term" refines="#subject-2">sh85121813</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008115817</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
@@ -84,6 +87,12 @@
 		<meta property="term" refines="#subject-17">sh2008111401</meta>
 		<meta property="authority" refines="#subject-18">LCSH</meta>
 		<meta property="term" refines="#subject-18">Unknown</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">sh85108438</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">sh2008106912</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">sh2008111729</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of science fiction short stories by Poul Anderson ordered by date of publication.</dc:description>
