@@ -102,44 +102,72 @@
 			&lt;p&gt;This collection consists of short stories and novellas published in &lt;i&gt;Worlds of If&lt;/i&gt;, &lt;i&gt;Galaxy SF&lt;/i&gt;, &lt;i&gt;Fantastic Universe&lt;/i&gt;, and other periodicals. Presented in order of publication, they include &lt;i&gt;Innocent at Large&lt;/i&gt;, a 1958 story coauthored with his wife and noted author Karen Anderson.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Star Ship -->
 		<dc:source>https://www.gutenberg.org/ebooks/63950</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v04n08_1950-Fall</dc:source>
+		<!-- Tiger by the Tail -->
 		<dc:source>https://www.gutenberg.org/ebooks/63944</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v04n10_1951-01</dc:source>
+		<!-- Witch of the Demon Seas -->
 		<dc:source>https://www.gutenberg.org/ebooks/64049</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v04n10_1951-01</dc:source>
+		<!-- World of the Mad -->
 		<dc:source>https://www.gutenberg.org/ebooks/65086</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/32436</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/51184</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64022</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63993</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64044</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64048</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/64075</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/22239</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/37653</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/41064</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/31501</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/59314</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/63633</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/59373</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/59498</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/29542</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/51650</dc:source>
-		<dc:source>https://www.gutenberg.org/ebooks/30971</dc:source>
 		<dc:source>https://archive.org/details/Imagination_v02n01_1951-02_LennyS-cape1736</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4b429905ddf83</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56945e402c4de</dc:source>
+		<!-- Duel on Syrtis -->
+		<dc:source>https://www.gutenberg.org/ebooks/32436</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v04n11_1951-03</dc:source>
+		<!-- Inside Earth -->
+		<dc:source>https://www.gutenberg.org/ebooks/51184</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v02n01_1951-04</dc:source>
+		<!-- The Virgin of Valkarion -->
+		<dc:source>https://www.gutenberg.org/ebooks/64022</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v05n01_1951-07_oak</dc:source>
+		<!-- Lord of a Thousand Sons -->
+		<dc:source>https://www.gutenberg.org/ebooks/63993</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v05n02_1951-09</dc:source>
-		<dc:source>https://comicbookplus.com/?dlid=68410</dc:source>
-		<dc:source>https://archive.org/details/Planet_Stories_v05n05_1952-03_EXciter-dtsg0318_FIXED</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4611913c6a010</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID4ca3dafa67860</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID506f9aaf15e2d</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49f1191251801</dc:source>
+		<!-- Swordsman of Lost Terra -->
+		<dc:source>https://www.gutenberg.org/ebooks/64044</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n03_1951-11</dc:source>
+		<!-- Sargasso of Lost Starships -->
+		<dc:source>https://www.gutenberg.org/ebooks/64048</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n04_1952-01/</dc:source>
+		<!-- Captive of the Centaurianess -->
+		<dc:source>https://www.gutenberg.org/ebooks/64075</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v05n05_1952-03</dc:source>
+		<!-- Security -->
+		<dc:source>https://www.gutenberg.org/ebooks/22239</dc:source>
+		<dc:source>https://archive.org/details/Space_Science_Fiction_v01n04_1953-02_Gorgon776</dc:source>
+		<!-- Sentiment, Inc. -->
+		<dc:source>https://www.gutenberg.org/ebooks/37653</dc:source>
+		<dc:source>https://archive.org/details/Science_Fiction_Stories_01_1953</dc:source>
+		<!-- The Chapter Ends -->
+		<dc:source>https://www.gutenberg.org/ebooks/41064</dc:source>
+		<dc:source>https://archive.org/details/Dynamic_Science_Fiction_v01n06_1954-01_sleipnir-reconstructed</dc:source>
+		<!-- The Sensitive Man -->
+		<dc:source>https://www.gutenberg.org/ebooks/31501</dc:source>
+		<dc:source>https://archive.org/details/Fantastic_Universe_v01n04_1954-01_UnkSc-cape1736</dc:source>
+		<!-- Snowball -->
+		<dc:source>https://www.gutenberg.org/ebooks/59314</dc:source>
+		<dc:source>https://archive.org/details/1955-05_IF_modified</dc:source>
+		<!-- Out of the Iron Womb! -->
+		<dc:source>https://www.gutenberg.org/ebooks/63633</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_Volume_6_Number_11_</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49cd7f60eb09e</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID56a573cb91baf</dc:source>
-		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID49440ddf3e1f8</dc:source>
-		<dc:source>http://www.luminist.org/archives/SF/IF.htm</dc:source>
+		<!-- Catalysis -->
+		<dc:source>https://www.gutenberg.org/ebooks/59373</dc:source>
+		<dc:source>https://archive.org/details/1956-02_IF_modified</dc:source>
+		<!-- What Shall It Profit? -->
+		<dc:source>https://www.gutenberg.org/ebooks/59498</dc:source>
+		<dc:source>https://archive.org/details/1956-06_IF_modified</dc:source>
+		<!-- The Valor of Cappen Varra -->
+		<dc:source>https://www.gutenberg.org/ebooks/29542</dc:source>
+		<dc:source>https://archive.org/details/Fantastic_Universe_v07n01_1957-01</dc:source>
+		<!-- Innocent at Large -->
+		<dc:source>https://www.gutenberg.org/ebooks/51650</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v16n03_1958-07_modified</dc:source>
+		<!-- Industrial Revolution -->
+		<dc:source>https://www.gutenberg.org/ebooks/30971</dc:source>
+		<dc:source>https://s3.us-west-1.wasabisys.com/luminist/SF/AN/AN_1963_09.pdf</dc:source>
 		<meta property="se:word-count">283474</meta>
 		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
