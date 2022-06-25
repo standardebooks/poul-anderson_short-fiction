@@ -93,6 +93,7 @@
 		<meta property="term" refines="#subject-21">sh2008111729</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of science fiction short stories by Poul Anderson ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/poul-anderson"&gt;Poul Anderson’s&lt;/a&gt; prolific writing career began in 1947, while still an undergraduate physics student at the University of Minnesota, and continued throughout his life. His works were primarily science fiction and fantasy, but he also produced mysteries and historical fiction.&lt;/p&gt;
