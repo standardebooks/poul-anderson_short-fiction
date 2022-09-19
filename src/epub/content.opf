@@ -253,6 +253,7 @@
 		<item href="text/swordsman-of-lost-terra.xhtml" id="swordsman-of-lost-terra.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-chapter-ends.xhtml" id="the-chapter-ends.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-sensitive-man.xhtml" id="the-sensitive-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-temple-of-earth.xhtml" id="the-temple-of-earth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-valor-of-cappen-varra.xhtml" id="the-valor-of-cappen-varra.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-virgin-of-valkarion.xhtml" id="the-virgin-of-valkarion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/tiger-by-the-tail.xhtml" id="tiger-by-the-tail.xhtml" media-type="application/xhtml+xml"/>
@@ -279,6 +280,7 @@
 		<itemref idref="captive-of-the-centaurianess.xhtml"/>
 		<itemref idref="security.xhtml"/>
 		<itemref idref="sentiment-inc.xhtml"/>
+		<itemref idref="the-temple-of-earth.xhtml"/>
 		<itemref idref="the-chapter-ends.xhtml"/>
 		<itemref idref="the-sensitive-man.xhtml"/>
 		<itemref idref="snowball.xhtml"/>
