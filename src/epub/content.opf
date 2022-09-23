@@ -176,8 +176,8 @@
 		<!-- Industrial Revolution -->
 		<dc:source>https://www.gutenberg.org/ebooks/30971</dc:source>
 		<dc:source>https://archive.org/details/analog-science-fiction-and-fact-1963-09</dc:source>
-		<meta property="se:word-count">283474</meta>
-		<meta property="se:reading-ease.flesch">75.61</meta>
+		<meta property="se:word-count">294483</meta>
+		<meta property="se:reading-ease.flesch">75.5</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/poul-anderson_short-fiction</meta>
 		<dc:creator id="author">Poul Anderson</dc:creator>
 		<meta property="file-as" refines="#author">Anderson, Poul</meta>
