@@ -189,6 +189,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Karen_Anderson_(writer)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/no2017021910</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor">0</meta>
 		<dc:contributor id="artist">Francis Picabia</dc:contributor>
 		<meta property="file-as" refines="#artist">Picabia, Francis</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Francis_Picabia</meta>
