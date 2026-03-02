@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="captive-of-the-centaurianess.xhtml">
-		<ignore>
-			<code>t-064</code>
+		<ignore code="t-064">
 			<reason>Title is spoken in a dialect and thus is titlecased correctly.</reason>
 		</ignore>
 	</file>
 	<file path="innocent-at-large.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Match is a part of thought speech.</reason>
 		</ignore>
 	</file>
 	<file path="security.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Match is a complete clause.</reason>
 		</ignore>
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Period is part of a secret code.</reason>
 		</ignore>
 	</file>
 	<file path="snowball.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Match is a part of longer dialog.</reason>
 		</ignore>
 	</file>
