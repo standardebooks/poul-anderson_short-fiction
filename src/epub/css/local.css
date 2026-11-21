@@ -2,6 +2,10 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+h2:has(+ [epub|type~="contributors"]){
+	margin-bottom: 1em;
+}
+
 [epub|type~="contributors"]{
 	font-style: italic;
 }
